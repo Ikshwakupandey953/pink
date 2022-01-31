@@ -48,7 +48,7 @@ module.exports = {
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    MAHN: "919628516236,0",
+    MAHN: "919628516235,0",
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -65,8 +65,8 @@ module.exports = {
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
     BOTCREATOR: "afnanplk",
-    SUPPORT: "919072790584-1635775354",
-    SUPPORT2: "905511384502-1617730751",
-    SUPPORT3: "905511380572-1621015074"
+    SUPPORT: "919072790587-1635775355",
+    SUPPORT2: "905511384572-1617736751",
+    SUPPORT3: "905511384572-1621015274"
 };
 
