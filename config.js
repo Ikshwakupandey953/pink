@@ -19,7 +19,7 @@ module.exports = {
     VERSION: 'v7.3.6',
     CHANNEL: 'https://t.me/remasterplugin',
     SESSION: process.env.PINKY_SESSION === undefined ? '' : process.env.PINKY_SESSION,
-    AFN: process.env.ALL_CAPTION === undefined ? 'MADE BY PINKY' : process.env.ALL_CAPTION,
+    AFN: process.env.ALL_CAPTION === undefined ? 'MADE BY Sam Pandey' : process.env.ALL_CAPTION,
     STANDPLK: process.env.STANDBY_MODE === undefined ? 'off' : process.env.STANDBY_MODE,
     PM_BLOCK: process.env.PM_BLOCK === undefined ? 'false' : process.env.PM_BLOCK,
     Z_PINKY_AI: process.env.Z_PINKY_AI === undefined ? 'false' : process.env.Z_PINKY_AI,
@@ -35,7 +35,7 @@ module.exports = {
     PLKIMG: process.env.LIST_IMG === undefined ? 'https://i.imgur.com/zdcqaaG.jpeg' : process.env.LIST_IMG,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
-    BOTPLK: process.env.BOT_NAME === undefined ? 'PINKY BOT' : process.env.BOT_NAME,
+    BOTPLK: process.env.BOT_NAME === undefined ? 'Sam Pandey' : process.env.BOT_NAME,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
@@ -48,7 +48,7 @@ module.exports = {
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    MAHN: "919072790587,0",
+    MAHN: "919628516236,0",
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -65,8 +65,8 @@ module.exports = {
     COFFEEHOUSE_API_KEY: process.env.COFFEEHOUSE_API_KEY === undefined ? false : process.env.COFFEEHOUSE_API_KEY,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
     BOTCREATOR: "afnanplk",
-    SUPPORT: "919072790587-1635775355",
-    SUPPORT2: "905511384572-1617736751",
-    SUPPORT3: "905511384572-1621015274"
+    SUPPORT: "919072790584-1635775354",
+    SUPPORT2: "905511384502-1617730751",
+    SUPPORT3: "905511380572-1621015074"
 };
 
